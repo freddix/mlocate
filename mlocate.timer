@@ -1,0 +1,6 @@
+[Unit]
+Description=locate/updatedb timer
+
+[Timer]
+OnCalendar=*-*-* 23:00:00
+
